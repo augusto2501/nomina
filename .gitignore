@@ -1,0 +1,19 @@
+# Claude Code: configuración local personal
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Secretos
+.env
+.env.*
+!.env.example
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# Logs
+*.log
